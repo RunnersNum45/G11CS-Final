@@ -137,3 +137,5 @@ time_callback.acc = record.history["acc"][-1]
 print ("Training Time:", sum(time_callback.times))
 print ("Accuracy:", time_callback.acc)
 plotacc(record.history)
+
+model.save("Classifier.h5")
