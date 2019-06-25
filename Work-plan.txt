@@ -1,1 +1,0 @@
-Get Tensorflow working and explore the use of Keras. Make a basic network and use it to do some tests. Start to practice on the MNIST database. Eventually make a final product and then hand in the network and the code.
